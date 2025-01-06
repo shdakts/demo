@@ -1,7 +1,8 @@
-# Artan ve Azalan Sayılar Piramidi
+## Increasing and Decreasing Number Pyramid
 
-Bu C# kodu, kullanıcıdan alınan bir sayı ile artan ve azalan sayılar içeren bir piramit oluşturur. Her satırda, önce artan bir sayı dizisi, ardından azalan bir sayı dizisi bulunur. Örneğin:
+This C# program generates a pyramid with increasing and decreasing numbers, based on a number entered by the user. Each row contains an increasing sequence of numbers followed by a decreasing sequence. For example, the output looks like this:
 
+```bash
 1
 232
 34543
